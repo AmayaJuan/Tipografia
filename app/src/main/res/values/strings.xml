@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Tipografia</string>
+    <string name="tipografia">Tipografia</string>
+    <string name="display2_abeezee">Display2 (abeezee)</string>
+    <string name="display1_advent_pro_thin">Display1 (advent_pro_thin)</string>
+    <string name="body1_allert">Body1 (Allert)</string>
 </resources>
